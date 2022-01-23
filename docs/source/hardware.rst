@@ -6,7 +6,7 @@ TiltBridge is an ESP32-based board - however selecting the LOLIN D32 Pro and add
 result in the best experience with the most features. For a smaller build, Heltec-style ESP32 OLED boards are also
 tested to work with the latest version of TiltBridge.
 
-.. note:: While this page documents hardware that has ben demonstrated to work with TiltBridge in the past, the author of TiltBridge does not warrant that any of the hardware listed below continues to be operational. Additionally, although links to vendors are provided to show examples of the referenced hardware, no guarantees are made as to the vendors themselves. Buy hardware you trust from a vendor you trust.
+.. note:: While this page documents hardware that has been demonstrated to work with TiltBridge in the past, the author of TiltBridge does not warrant that any of the hardware listed below continues to be operational. Additionally, although links to vendors are provided to show examples of the referenced hardware, no guarantees are made as to the vendors themselves. Buy hardware you trust from a vendor you trust.
 
 
 LOLIN D32 Pro + TFT
